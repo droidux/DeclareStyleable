@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Styleable Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem_ipsum"><b>Cras justo odio</b>\n\nDapibus ac facilisis in, egestas eget quam.
+        Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus.
+        Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis.\n\n
+Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+        Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+        Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum.
+        Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</string>
+    <string name="my_profile_picture">Althea Redford</string>
+</resources>
