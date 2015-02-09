@@ -1,0 +1,1 @@
+This sample project shows how to programmatically declare styleable and use it to customize your custom view as explained in [this](http://droidux.com/programmatically-declare-styleable-custom-view) blog post.
